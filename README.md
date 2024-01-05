@@ -19,7 +19,7 @@ This web application is designed to provide users with an interactive and user-f
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/shopping-cart-web-app.git
+   git clone https://github.com/Abou1205/shopping-cart-web-app.git
    ```
 
 2. **Open the Project:**
